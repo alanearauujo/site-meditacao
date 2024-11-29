@@ -1,7 +1,7 @@
-# Meu Portfólio
-Este é um site de portfólio que mostra meus projetos e habilidades.
+# Site de meditação
+Este é um site usado para meditação e foco
 
-🔗 [Acesse o site aqui](https://seuusuario.github.io/meu-portfolio)
+🔗 [Acesse o site aqui](https://github.com/alanearauujo/site-responsivo)
 
 ## Tecnologias Utilizadas
 - HTML
